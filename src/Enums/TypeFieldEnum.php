@@ -14,4 +14,5 @@ enum TypeFieldEnum: string
     case Textarea = 'textarea';
     case Datetime = 'datetime';
     case Richtext = 'richtext';
+    case Number = 'number';
 }
